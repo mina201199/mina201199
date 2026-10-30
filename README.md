@@ -26,11 +26,11 @@ AI Application / Software Engineer, moving into AI application development from 
 - Built the location A/B comparison, share links and local favorites; also contributed FastAPI/frontend changes, Playwright E2E tests, and CI test-data flow.
 - For the [competition demo video](https://youtu.be/3uHAfHad2d0), I created the opening AI-generated sequence and re-edited the final video. The later AI-generated segment was made by a teammate using Claude.
 
-### More projects (private — demo available on request)
+### More projects
 
-- **Secure Multi-Tenant RAG** — A multi-company document platform with company- and role-scoped access, document versioning, share/revoke, and audited transfers on FastAPI, PostgreSQL, and Docker; row-level security and the RAG layer are still in progress.
-- **Amazon 571M Candidate Retrieval** — A single-machine pipeline over 571M Amazon review interactions with five recall channels, weighted RRF, and time-split offline evaluation.
-- **SECOM Cost-Sensitive Evaluation** — Tests whether a defect model is worth deploying: 18 model × policy × capacity configurations under walk-forward backtesting, none of which beat the model-free inspection policies.
+- **[Secure Multi-Tenant RAG](https://github.com/mina201199/secure-multi-tenant-rag)** — A multi-company document platform with company- and role-scoped access, document versioning, share/revoke, and audited transfers on FastAPI, PostgreSQL, and Docker; row-level security and the RAG layer are still in progress.
+- **[Amazon 571M Candidate Retrieval](https://github.com/mina201199/amazon-recsys-571m)** — A single-machine pipeline over 571M Amazon review interactions with five recall channels, weighted RRF, and time-split offline evaluation.
+- **[SECOM Cost-Sensitive Evaluation](https://github.com/mina201199/secom-cost-sensitive-eval)** — Tests whether a defect model is worth deploying: 18 model × policy × capacity configurations under walk-forward backtesting, none of which beat the model-free inspection policies.
 
 ## Training
 
