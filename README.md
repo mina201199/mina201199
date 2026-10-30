@@ -9,7 +9,7 @@ AI Application / Software Engineer. I build LLM applications whose answers can b
 - **Evaluation and testing**: fixed offline benchmarks, pytest, Playwright E2E, and GitHub Actions CI
 - Project-management background: requirements translation, cross-functional coordination, and delivery tracking across 80+ projects
 
-**Portfolio:** <https://mina201199.github.io/resum/> · **Résumé (PDF):** <https://mina201199.github.io/resum/mina-lee-resume.pdf>
+**Portfolio:** <https://mina201199.github.io/resume/> · **Résumé (PDF):** <https://mina201199.github.io/resume/mina-lee-resume.pdf>
 
 ## Selected projects
 
